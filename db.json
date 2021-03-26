@@ -1,7 +1,9 @@
-[
-  {
-    "title": "Hannibal Park",
-    "imageUrl": "Picture link Here",
-    "id": 1
-  }
-]
+{
+  "items": [
+    {
+      "title": "Hannibal Park",
+      "imageUrl": "Picture link Here",
+      "id": 1
+    }
+  ]
+}
